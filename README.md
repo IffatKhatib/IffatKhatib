@@ -7,3 +7,4 @@ I'm a Computer Engineering grad student at Virginia Tech, with a background in I
 - 💬 Ask me about anything data-related  
 - 📫 Reach me at: iffatkhatib99@gmail.com  
 
+![Iffat's GitHub stats](https://github-readme-stats.vercel.app/api?username=IffatKhatib&show_icons=true)
