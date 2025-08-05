@@ -1,10 +1,29 @@
-### Hi there 👋 I'm Iffat Khatib
+<h2 align="center">Hi there, I'm Iffat Khatib 👋</h2>
 
-I'm a Computer Engineering grad student at Virginia Tech, with a background in IT Engineering. I work on data science, machine learning, and real-world AI projects.
+🎓 Grad student in Computer Engineering at <strong>Virginia Tech</strong>  
+🧠 Background in IT Engineering, driven by curiosity and real-world impact  
+💻 Passionate about building smart, usable AI/ML tools  
+🤝 Always open to new ideas, learning, and collaboration  
 
-- 🔭 I’m currently working on: real-time ML projects  
-- 🌱 Learning: Python, ML deployment, and model explainability  
-- 💬 Ask me about anything data-related  
-- 📫 Reach me at: iffatkhatib99@gmail.com  
+---
 
-![Iffat's GitHub stats](https://github-readme-stats.vercel.app/api?username=IffatKhatib&show_icons=true)
+### 🚀 Current Focus
+- Enhancing real-world ML apps (deployment, explainability, APIs)
+- Working on dashboards, prediction systems, and computer vision tools
+- Always learning and open to collaborative ideas
+
+---
+
+### 🛠️ Tools & Technologies
+
+**Languages & Libraries**  
+`Python` · `R` · `MySQL` · `Scikit-learn` · `Pandas` · `NumPy` · `OpenCV` · `PyTorch` · `Prophet` · `NeuralProphet`
+
+**Tools & Frameworks**  
+`Streamlit` · `Flask` · `REST APIs` · `Power BI` · `Tableau` · `Excel` · `Git` · `Jupyter` · `Colab`
+
+---
+
+### 📫 Get in Touch
+- 📧 iffatkhatib99@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/iffat-khatib)
