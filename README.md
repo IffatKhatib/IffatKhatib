@@ -17,7 +17,7 @@
 ### 🛠️ Tools & Technologies
 
 **Languages & Libraries**  
-`Python` · `R` · `MySQL` · `Scikit-learn` · `Pandas` · `NumPy` · `OpenCV` · `PyTorch` · `Prophet` · `NeuralProphet`
+`Python` · `R` · `MySQL` · `Scikit-learn` · `Pandas` · `NumPy` · `OpenCV` · `PyTorch` 
 
 **Tools & Frameworks**  
 `Streamlit` · `Flask` · `REST APIs` · `Power BI` · `Tableau` · `Excel` · `Git` · `Jupyter` · `Colab`
