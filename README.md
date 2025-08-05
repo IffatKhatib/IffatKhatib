@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Iffat Khatib 👋</h2>
+<h2 align="center">Hi there, I'm Iffat👋</h2>
 
 🎓 Grad student in Computer Engineering at <strong>Virginia Tech</strong>  
 🧠 Background in IT Engineering, driven by curiosity and real-world impact  
